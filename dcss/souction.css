@@ -1,5 +1,5 @@
 html {
-  background-color: #FAFAD2 ;
+  background-color: #E6E6FA;
 }
 {
     background-color: blue;
@@ -59,10 +59,8 @@ h2{
     font-color:black;
     font-style: normal;
     float: right;
-    padding: 10px 30px 10px 30px;
-   
+    padding: 10px 30px 10px 30px;  
 }
-
 #highlight4 {
     background-color: white;
     box-shadow: 6px 6px 6px black;
@@ -77,9 +75,9 @@ h2{
 }
 #p1 {
     padding: 60px 20px 10px 20px;
-    border: 5px dashed #20b2aa;
+    border: 5px dashed white;
     font-size:18px;
-    background-color:#ffe4c4;
+    background-color:#FFE4B5;
     color:black;
     font-family: "Homer Simpson UI";
 }
@@ -93,18 +91,18 @@ h2{
    }
 #p3 {
     padding: 60px 20px 10px 20px;
-    border: 5px dashed #20b2aa;
+    border: 5px dashed white;
     font-size:18px;
-    background-color:#ffe4c4;
+    background-color:#7fffd4;
     color:black;
     font-family: "Homer Simpson UI";
 }
 #p4 {
 
      padding: 60px 20px 10px 20px;
-    border: 5px dashed #20b2aa;
+    border: 5px double purple;
     font-size:18px;
-    background-color:#ffc0cb;
+    background-color:#FCFC50;
     color:black;
     font-family: "Homer Simpson UI";
    }
